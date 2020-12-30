@@ -1,0 +1,49 @@
+
+PHP Code:
+
+#EXTM3U
+#EXTINF:0 ,BBF TV
+http://51.195.88.12:4050/live/live/bbfmobpp1/playlist.m3u8
+#EXTINF:0 ,RTSH SHQIP
+http://51.195.88.12:4050/live/rtsh_shqip_mob_p2/playlist.m3u8
+#EXTINF:0 ,RTSH FILM 
+http://51.195.88.12:4050/live/rtshfilmmob/playlist.m3u8
+#EXTINF:0 ,KLAN MUSIC
+http://51.195.88.12:4050/live/klanmusicmob/playlist.m3u8
+#EXTINF:0 ,RTSH FEMIJE
+http://51.195.88.12:4050/live/rtshfemijemobpp3/playlist.m3u8
+#EXTINF:0 ,IN TV
+http://51.195.88.12:4050/live/intvmobpp1/playlist.m3u8
+#EXTINF:0 ,RTV ORA
+http://51.195.88.12:4050/live/rtvoramobpp1/playlist.m3u8
+#EXTINF:0 ,RTV ORA NEWS
+http://51.195.88.12:4050/live/oranewsmobpp1/playlist.m3u8 
+#EXTINF:0 ,KLAN HD
+http://51.195.88.12:4050/live/klanhdmobpp3/playlist.m3u8
+#EXTINF:0 ,KLAN PLUS
+ http://51.195.88.12:4050/live/klanplusmobpp2/playlist.m3u8
+#EXTINF:0 ,KLAN MAQEDONI
+http://51.195.88.12:4050/live/klanmacedoniamob/playlist.m3u8
+#EXTINF:0 ,EURONEWS AL HD
+http://51.195.88.12:4050/live/euronewsmobpp3/playlist.m3u8
+#EXTINF:0 ,SYRI TV HD
+http://51.195.88.12:4050/live/syritvmob/playlist.m3u8
+#EXTINF:0 ,ABC NEWS AL HD
+http://51.195.88.12:4050/live/abcnewsmob/playlist.m3u8
+#EXTINF:0 ,TV SCAN AL
+http://51.195.88.12:4050/live/scanmobpp1/playlist.m3u
+#EXTINF:0 ,KLAN MUSIC HD
+http://51.195.88.12:4050/live/klanmusicmob/playlist.m3u8
+#EXTINF:0 ,IN TV HD
+http://51.195.88.12:4050/live/intvott/playlist.m3u8 
+#EXTINF:0 ,KLAN NEWS RAI NEWS
+http://51.195.88.12:4050/live/klannewsmobpp3/playlist.m3u8
+#EXTINF:0 ,RTSH 1 HD  
+http://51.195.88.12:4050/live/rtsh_11mob1/playlist.m3u8
+#EXTINF:0 ,RTSH SHQIP HD
+http://51.195.88.12:4050/live/rtsh_shqip_mob/playlist.m3u8
+#EXTINF:0 ,T 7 HD
+http://51.195.88.12:4050/live/t7/playlist.m3u8 
+
+
+
